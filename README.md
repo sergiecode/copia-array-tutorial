@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/copia-array-tutorial/master/copia-array-tutorial.jpg)
+![Como hacer copias de un array](https://raw.githubusercontent.com/sergiecode/copia-array-tutorial/master/copia-array-tutorial.jpg)
 
 # Tutorial: Cómo copiar arrays en JavaScript
 
